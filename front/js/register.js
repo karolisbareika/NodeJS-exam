@@ -41,6 +41,7 @@
 
 
 
+
 document.querySelector('form').addEventListener('submit', registerPost);
 
 
